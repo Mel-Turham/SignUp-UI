@@ -6,8 +6,8 @@ const App = () => {
 					<div className='absolute inset-0'>
 						<img
 							className='object-cover w-full h-full'
-							src='https://cdn.rareblocks.xyz/collection/celebration/images/signup/4/girl-working-on-laptop.jpg'
-							alt=''
+							src='https://img.freepik.com/photos-gratuite/portrait-homme-detendu-assis-table-bureau-dans-salon-travaillant-distance-chez-lui-projet-financier-aide-ordinateur-portable-pour-webinaire-ligne-pigiste-ayant-lecon-commerce_482257-37964.jpg?t=st=1723066035~exp=1723069635~hmac=a11655e07bb52ba2084de5a27df402d520e65753780315b401d3f81860a189ad&w=996'
+							alt='SignUp image'
 						/>
 					</div>
 					<div className='absolute inset-0 bg-gradient-to-t from-black to-transparent'></div>
